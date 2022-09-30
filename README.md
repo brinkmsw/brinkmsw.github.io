@@ -1,7 +1,7 @@
 # ElCoolio.github.io
 #HTML and CSS Projects
 
-This is a few of the sample websiteds that I have made using HTML and CSS.  More to come!
+This is a few of the sample websites that I have made using HTML and CSS.  More to come!
 
 ## Projects
 
