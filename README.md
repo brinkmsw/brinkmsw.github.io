@@ -5,13 +5,13 @@ This is a few of the sample websites that I have made using HTML, CSS, and JavaS
 
 ## Projects
 
-- Pizza Project [code here](
-- TicTacToe [code here](
-- ToDo App [code here](
-- Calculator [code here](
-- Space Station website [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/Project%20SS)
-- One-Page Website [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/One-Page%20Website)
-- Movie Theater website [code  here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/bootstrap4_project)
+- Pizza Project [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/JavaScript_Projects/Pizza_Project)
+- TicTacToe [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/JavaScript_Projects/TicTacToe)
+- ToDo App [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/JavaScript_Projects/Todo_app)
+- Calculator [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/JavaScript_Projects/Calculator)
+- Space Station website [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/HTML_and_CSS_Projects/Project%20SS)
+- One-Page Website [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/HTML_and_CSS_Projects/One-Page%20Website)
+- Movie Theater website [code  here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/HTML_and_CSS_Projects/bootstrap4_project)
 - My [GitHub Pages](https://elcoolio.github.io/) site.
 
 ### Pizza Project
