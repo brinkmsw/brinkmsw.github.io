@@ -7,7 +7,7 @@ This is a few of the sample websites that I have made using HTML, CSS, and JavaS
 
 
 - Phone Book [code here](https://github.com/ElCoolio/Python-Projects/tree/main/Python%20Assignment%2005%20-%20Phone%20Book)
-- File Transfer Program[code here](https://github.com/ElCoolio/Python-Projects/tree/main/Python%20Assignment%2012%20-%20File%20Transfer)
+- File Transfer Program [code here](https://github.com/ElCoolio/Python-Projects/tree/main/Python%20Assignment%2012%20-%20File%20Transfer)
 - Web Page Generator [code here](https://github.com/ElCoolio/Python-Projects/tree/main/Python%20assignment%2013%20-%20Web%20Page%20Generator)
 - Django Checking Account [code here](https://github.com/ElCoolio/Python-Projects/tree/main/Python%20Assignment%2015%20-%20Checking%20account/Django_Checkbook_Project)
 - Pizza Project [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/JavaScript_Projects/Pizza_Project)
