@@ -1,5 +1,5 @@
 # ElCoolio.github.io
-#HTML, CSS, JavaScript, and Python Projects
+# HTML, CSS, JavaScript, and Python Projects
 
 This is a few of the sample websites that I have made using HTML, CSS, and JavaScript.  More to come!
 
