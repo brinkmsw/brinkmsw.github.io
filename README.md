@@ -1,11 +1,14 @@
 # ElCoolio.github.io
-#### HTML, CSS, JavaScript, and Python Projects
+#### HTML, CSS, JavaScript, Python and C# Projects
 
-This is a few of the sample websites that I have made using HTML, CSS, and JavaScript.  More to come!
+This is a few of the sample websites that I have made using HTML, CSS, JavaScript, Python, and C#.  More to come!
 
 ## Projects
 
-
+- Car Insurance [Code here](https://github.com/ElCoolio/Basic_C-_Programs/tree/main/CarInsurance)
+- NewsletterAppMVC [Code here](https://github.com/ElCoolio/Basic_C-_Programs/tree/main/NewsletterAppMVC)
+- Shipping Quota [Code here](https://github.com/ElCoolio/Basic_C-_Programs/tree/main/ShippingQuota)
+- TwentyOne [Code here](https://github.com/ElCoolio/Basic_C-_Programs/tree/main/TwentyOne)
 - Phone Book [code here](https://github.com/ElCoolio/Python-Projects/tree/main/Python%20Assignment%2005%20-%20Phone%20Book)
 - File Transfer Program [code here](https://github.com/ElCoolio/Python-Projects/tree/main/Python%20Assignment%2012%20-%20File%20Transfer)
 - Web Page Generator [code here](https://github.com/ElCoolio/Python-Projects/tree/main/Python%20assignment%2013%20-%20Web%20Page%20Generator)
@@ -18,6 +21,18 @@ This is a few of the sample websites that I have made using HTML, CSS, and JavaS
 - One-Page Website [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/HTML_and_CSS_Projects/One-Page%20Website)
 - Movie Theater website [code  here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/HTML_and_CSS_Projects/bootstrap4_project)
 - My [GitHub Pages](https://elcoolio.github.io/) site.
+
+### Car Insurance
+C# project where we allow users to submit information and get a quote based of logic.  Also allow Admins to view the list of all quotes.
+
+### NewsletterAppMVC
+C# project where we make a simple sign up app for a newsletter.  Practice with the MVC approach to web app development.
+
+### Shipping Quota
+C# project console app where we get a shipping quote from the dimensions entered in by a user.
+
+### TwentyOne
+C# project console app that plays the game TwentyOne with the user, simulating a Casino game.
 
 ### Phone Book
 Python project using tkinter to draw a UI that allows the user to manipulate a database with contact information
