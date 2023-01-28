@@ -5,8 +5,8 @@ This is a few of the sample websites that I have made using HTML, CSS, JavaScrip
 
 ## Projects
 
-- Python Live Project [Summary here]()
-- C# Live Project [Summary here]()
+- Python Live Project [Summary here](https://github.com/ElCoolio/Python-Live-Project/blob/main/README.md)
+- C# Live Project [Summary here](https://github.com/ElCoolio/C-Sharp-Live-Project/blob/main/README.md)
 - Car Insurance [Code here](https://github.com/ElCoolio/Basic_C-_Programs/tree/main/CarInsurance)
 - NewsletterAppMVC [Code here](https://github.com/ElCoolio/Basic_C-_Programs/tree/main/NewsletterAppMVC)
 - Shipping Quota [Code here](https://github.com/ElCoolio/Basic_C-_Programs/tree/main/ShippingQuota)
@@ -23,6 +23,12 @@ This is a few of the sample websites that I have made using HTML, CSS, JavaScrip
 - One-Page Website [code here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/HTML_and_CSS_Projects/One-Page%20Website)
 - Movie Theater website [code  here](https://github.com/ElCoolio/Tech-Academy-Projects/tree/main/HTML_and_CSS_Projects/bootstrap4_project)
 - My [GitHub Pages](https://elcoolio.github.io/) site.
+
+### Python Live project
+A two week sprint with other developers to work on web applications on the same site.
+
+### C# Live Project
+A two week sprint with other developers to work on adding backend capabilities on the same project.
 
 ### Car Insurance
 C# project where we allow users to submit information and get a quote based of logic.  Also allow Admins to view the list of all quotes.
