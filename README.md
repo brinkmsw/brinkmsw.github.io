@@ -5,6 +5,8 @@ This is a few of the sample websites that I have made using HTML, CSS, JavaScrip
 
 ## Projects
 
+- Python Live Project [Summary here]()
+- C# Live Project [Summary here]()
 - Car Insurance [Code here](https://github.com/ElCoolio/Basic_C-_Programs/tree/main/CarInsurance)
 - NewsletterAppMVC [Code here](https://github.com/ElCoolio/Basic_C-_Programs/tree/main/NewsletterAppMVC)
 - Shipping Quota [Code here](https://github.com/ElCoolio/Basic_C-_Programs/tree/main/ShippingQuota)
