@@ -1,4 +1,4 @@
-# ElCoolio.github.io
+# brinkmsw.github.io
 #### HTML, CSS, JavaScript, Python and C# Projects
 
 This is a few of the sample websites that I have made using HTML, CSS, JavaScript, Python, and C#.  More to come!
