@@ -117,6 +117,13 @@ footer {
     animation: moveNav 5s; /* This applies the moveNav animation for all other browsers */
 }
 
+@media only screen and (max-width: 767px) {
+    .Navbar  {
+        height: 150%; /* makes the navbar a bit bigger on mobile so it is easier to use with a touch screen.
+    }
+}
+
+
 /* The animation effect for moving the nav bar in from above the left of the screen on page load */
 @keyframes moveNav {
     from {left: -100vw;} /* The navbar is starting off screen to the left */
