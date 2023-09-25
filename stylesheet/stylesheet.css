@@ -571,6 +571,41 @@ button:hover, .form-container .btn:hover {
         -webkit-animation: moveVideoText 5.75s; /* Animation for Safari 4.0 - 8.0 */
         animation: moveVideoText 5.75s; /* moveVideoText animation set to 5.75s to match the movenavText animation */
     }
+
+    .Pop_Up_Button {
+        position: fixed; /* The element is positioned relative to the viewport and stays in the same location no matter what */
+        bottom: 1.75vw; /* Positions the button slightly up from the bottom of the viewport */
+        right: 1.75vw; /* Positions the viewport slightly right from the side of the viewport */
+        width: 40vw; /* Sets the width relative to the viewport width */
+        background-color: white; /* Sets the background color of the button to white */
+        color: black; /* Sets the color of the button text to black */
+        border: solid black; /* This makes a solid black border around the button */
+        cursor: pointer; /* This changes the cursor when hovered over the button to a pointer */
+        -webkit-animation: movePopup 5s; /* Animation for 5 seconds for Safari 4.0-8.0 */
+        animation: movePopup 5s; /* Animation set for 5 seconds */
+    }
+
+    button {
+        font-family: "Trebuchet MS", Optima;
+        letter-spacing: .3vw; /* Adds slight spacing between the letters */
+        font-size: 2.5vw; /* Relative sizing of text */
+        font-weight: bold; 
+        padding: 1.5vw; /* Adds padding to the text in the button */
+        cursor: pointer; /* Changes the cursor to pointer over button elements */
+        width: 100%; /* Sets the width of the buttons to 100% of their containers */
+        height: auto; /* Allows the height to be resized depending on the content showing */
+    }
+
+    .form-container label {
+        font-size: 2.5vw;
+    }
+
+    .form-container input {
+        height: 5vw;
+    }
+    .form-container input::placeholder {
+        font-size: 2.5vw;
+    }
 }
 
 /* Media rules to enlarge the font of the white text for smaller screens */
