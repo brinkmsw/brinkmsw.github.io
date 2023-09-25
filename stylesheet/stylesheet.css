@@ -497,8 +497,6 @@ button:hover, .form-container .btn:hover {
 }
 
 
-
-
 /*Media rule for navbar links for different screen sizes*/
 /* Screens 1080px and smaller will display navbar links equally distributed */
 @media screen and (max-width: 1080px) {
@@ -545,7 +543,21 @@ button:hover, .form-container .btn:hover {
         transform: scale(1.0); /* This makes the elements with class "center" increase in size by 1.1 when hovered over */
     }
     
-
+    .Column_1 {
+        float: left;
+        width: 50%; /* This ensures the column takes up half of the page width */
+        padding: 1.6%;
+        height: 300px; /* This sets the height of the column to 400px -  this may need to be adjusted depending on the text you enter */
+        background-color: #f2f2f2; /* Sets the background color of the left columns */
+    }
+    
+    .Column_2 {
+        float: left;
+        width: 50%;
+        padding: 1.6%;
+        height: 300px;
+        background-color: #4d4d4d;
+    }
 }
 
 /* Media rules to enlarge the font of the white text for smaller screens */
