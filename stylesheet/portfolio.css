@@ -139,7 +139,7 @@ footer {
 @media screen and (max-width: 576px) {
     .Navbar a{
         width: 25%; /* This makes each link take up 1/4 of the navbar */
-        font-size: 12px;
+        font-size: 20px;
     }
 }
 
