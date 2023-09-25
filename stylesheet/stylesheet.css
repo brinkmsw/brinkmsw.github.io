@@ -496,11 +496,7 @@ button:hover, .form-container .btn:hover {
     
 }
 
-@media screen and (max-width: 767px) {
-    .Navbar a{
-        min-height: 10%; 
-    }
-}
+
 
 
 /*Media rule for navbar links for different screen sizes*/
@@ -510,6 +506,46 @@ button:hover, .form-container .btn:hover {
         width: 20%; /* This sets each navbar link to 1/5 of the navbar */
         font-size: 2.5vw;
     }
+}
+
+@media screen and (max-width: 767px) {
+    .Navbar a{
+        font-size: 3.25vw;
+    }
+
+    h1:hover {
+        filter: grayscale(0%); /* Adds a slightly gray filter to the h1 headings when hovered over */
+        transform: scale(1.0); /* When the h1 elements are hovered over they increase in size by 1.1 */
+        transition: transform 0s; /* This causes the transformation to last 1 second */
+    }
+
+    img {
+        filter: grayscale(0%); /* This rids our pictures of 75% of their color */
+        border-radius: 8px; /* Gives all images slightly rounded corners */
+        max-width: 100%; /* Ensures all images stay within the width of their container */
+        max-height: 100%; /* Ensures all images stay within the height of their container */
+        display: block; /* By specifying block display we can ensure our images are able to be centered */
+        margin: auto auto auto auto; /* This centers all images */
+    }
+    
+    /* Image element hover effects */
+    img:hover {
+        filter: grayscale(0%);  /* Brings back most of the image's color when hovered over */
+    }
+
+    p:hover {
+        transition: transform 0s; /* This makes the transform effect last 1 second */
+        transform: scale(1.00); /* This makes the paragraphs increase slightly in size when hovered over */
+    }
+    
+    
+    /* Center align elements hover effect - This only affects the quote, github link, and footer */
+    .center:hover {
+        transition: transform 0s; /* This makes the transform effect last 2 seconds */
+        transform: scale(1.0); /* This makes the elements with class "center" increase in size by 1.1 when hovered over */
+    }
+    
+
 }
 
 /* Media rules to enlarge the font of the white text for smaller screens */
