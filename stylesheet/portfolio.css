@@ -20,15 +20,6 @@ h1:hover {
     transition: transform 1s; /* This causes the transformation to last 1 second */
 }
 
-@media only screen and (max-width:767px) {
-    h1 {
-        text-transform: uppercase; /* Capitalizing all h1 headings */
-        font-family:  'Trebuchet MS', sans-serif; /* Sets the font family of all h1 headings */
-        text-align: center; /* Centering all h1 elements */
-        margin-top: 3%; /* Adds a small margin above h1 elements */
-        color: #1a1a1a; 
-    }
-}
 
 /* Styling for portfolio title text */
 .white-text {
