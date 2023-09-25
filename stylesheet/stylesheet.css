@@ -173,11 +173,13 @@ footer {
 }
 
 /* Screens that are 576px and smaller will not display the background video */
+/*
 @media screen and (max-width: 576px) {
     #Typing_Video {
         display: none;
     }
 }
+*/
 
 /* Texts over the video */
 .Video_Text {
@@ -557,6 +559,17 @@ button:hover, .form-container .btn:hover {
         padding: 1.6%;
         height: 300px;
         background-color: #4d4d4d;
+    }
+
+    .Video_Text {
+        background: rgba(0, 0, 0, 0.5); /* This provides a semi-transparents background for the text to sit over */
+        color: white; /* Makes the font color white */
+        width: 100%; /* Ensures the video-text container fills the width of the video */
+        height: 50vh; /* This ensures the video-text container fills the height of the viewport so that the slideshow is not partially displayed */
+        padding-top: 2vh; /* This adds padding around the video-text container so that the background goes slightly beyond the text */
+        position: relative; /* This sets the text relative to its normal positioning, allowing us to use the animation below */
+        -webkit-animation: moveVideoText 5.75s; /* Animation for Safari 4.0 - 8.0 */
+        animation: moveVideoText 5.75s; /* moveVideoText animation set to 5.75s to match the movenavText animation */
     }
 }
 
