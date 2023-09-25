@@ -117,11 +117,7 @@ footer {
     animation: moveNav 5s; /* This applies the moveNav animation for all other browsers */
 }
 
-@media only screen and (max-width: 767px) {
-    .Navbar  {
-        height: 150%; /* makes the navbar a bit bigger on mobile so it is easier to use with a touch screen.
-    }
-}
+
 
 
 /* The animation effect for moving the nav bar in from above the left of the screen on page load */
@@ -495,6 +491,17 @@ button:hover, .form-container .btn:hover {
         font-size: 1.35vw;
     }
 }
+
+@media screen and (min-width: 2270px) {
+    
+}
+
+@media screen and (max-width: 767px) {
+    .Navbar a{
+        min-height: 10%; 
+    }
+}
+
 
 /*Media rule for navbar links for different screen sizes*/
 /* Screens 1080px and smaller will display navbar links equally distributed */
